@@ -62,6 +62,7 @@
 - [Aprende Python](https://uneweb.edu.ve/tuto-docs/libro-python.pdf) - Sergio Delgado Quintero
 - [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque
 - [Aprenda a pensar como un programador con Python](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers. Traducción: Miguel Ángel Vilella, Ángel Arnal, Iván Juanes, Litza Amurrio, Efrain Andia, César Ballardini (PDF)
+- [Python para todos, Explorando la información con Python 3](https://do1.dr-chuck.com/pythonlearn/ES_es/pythonlearn.pdf) - Charles R. Severance. Contribuidores: Juan Carlos Perez Castellanos, Juan Dougnac, Daniel Merino Echeverría, Jaime Bermeo Ramírez y Fernando Tardío. (PDF)
 
 ### ♦️ Ruby
 
